@@ -12,7 +12,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #Then move your app folder
 ### `cd star-rating`
 
-## Available Scripts
 
 In the project directory, you can run:
 
