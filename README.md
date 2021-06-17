@@ -6,6 +6,12 @@ Create a custom React star rating component.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Create your App
+### `npx create-react-app star-rating`
+
+#Then move your app folder
+### `cd star-rating`
+
 ## Available Scripts
 
 In the project directory, you can run:
